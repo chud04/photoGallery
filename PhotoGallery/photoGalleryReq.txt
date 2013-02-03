@@ -1,0 +1,14 @@
+
+
+Clients Requirements...
+
+
+1-the main screen: should contain the an image map of lebanon. i need ability to specify locations in the xml file that can be clicked in the map. so in the xml i specify x,y coordinates of where the link button should appear.
+
+2-when clicking on one button, it opens a second form which contains the list of cities related too that location. so in the xml i can add as many cities as i want.
+
+3-when clicking on one of the cities in the list,it will open a third form which contains the photogallery for this city, each photo can be clicked to be maximized. when it is maximized there should be text description that appears below it. offcourse i can go back the cities page and back to the main page.
+
+4-note that on the main screen there should be 2 buttons below, one for english and one for arabic so please make sure in the xml file there are two fields one for arabic and one for english for the city names, and the text description for the images.
+
+5-final requirement: when clicking on a location on the main screen and when the second screen is displayed, a music file should run related to the selected location so in the xml file there should be attribte to put the song file path.
